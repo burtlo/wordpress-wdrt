@@ -2,4 +2,4 @@ source "https://supermarket.chef.io"
 
 metadata
 
-cookbook 'wordpress', git: 'git@github.com:burtlo/wordpress-cookbook.git'
+cookbook 'wordpress', git: 'https://github.com/burtlo/wordpress-cookbook.git'
